@@ -1,0 +1,8 @@
+/Output
+/venv
+
+.DS_Store
+
+*.swp
+*.orig
+*.log
